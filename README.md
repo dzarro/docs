@@ -1,2 +1,2 @@
 # docs
-Some useful software documentation and turtorial.
+Some useful software documentation and tutorials.
